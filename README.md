@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm an aspiring software developer with a passion 
 - **Hackathons & Competitions:** Enthusiastic about teaming up for coding competitions and ideathons.
 
 ## 📫 How to Reach Me...
-- **Email:** [harishgowda120@example.com](mailto:harishgowda120@example.com) (Replace with your actual email)
-- **LinkedIn:** [Harish Gowda N](https://www.linkedin.com/in/your-profile) (Replace with your LinkedIn profile URL)
+- **Email:** [harishgowda120@example.com](mailto:harishgowda120@example.com)
+- **LinkedIn:** [Harish Gowda N](https://www.linkedin.com/in/harish-gowda-n-b87a25266/)
 - **GitHub:** Feel free to explore my repositories and open issues or PRs!
 
 ## 😄 Pronouns:
