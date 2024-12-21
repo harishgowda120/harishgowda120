@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer with a passion 
 He/Him
 
 ## ⚡ Fun Fact:
-I'm always excited to learn new things, and I have a keen interest in exploring how technology can bring positive change to society. When I’m not coding, you might find me playing chess or exploring new places in and around Bangalore!
+I'm always excited to learn new things, and I have a keen interest in exploring how technology can bring positive change to society. When I’m not coding, you might find me playing Volly Ball or exploring new places in and around Bangalore!
 
 ---
 
